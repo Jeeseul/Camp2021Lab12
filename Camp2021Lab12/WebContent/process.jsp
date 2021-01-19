@@ -19,5 +19,6 @@ int c=a/b;
 out.print("division of numbers is: "+c);  
   
 %>  
+
 </body>
 </html>

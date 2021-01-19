@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h4>this is printdate page</h4>
 <% out.print("Today is:"+java.util.Calendar.getInstance().getTime()); %>
 </body>
 </html>
