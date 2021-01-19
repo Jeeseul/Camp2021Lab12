@@ -17,5 +17,9 @@ No1:<input type="text" name="n1" /><br/><br/>
 No1:<input type="text" name="n2" /><br/><br/>  
 <input type="submit" value="divide"/>  
 </form>  
+
+<h2>this is an action example</h2>  
+  
+<jsp:forward page="printdate.jsp" />
 </body>
 </html>
